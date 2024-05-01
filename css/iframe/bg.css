@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.bg1{
+	border-bottom: 3px solid rgba(255,255,255,0.3);
+	line-height: 60px;
+	font-family: "微软雅黑";
+	
+	
+}
+.bg1:hover{
+	background-color: rgba(255,255,255,0.3);
+	cursor: pointer;
+}

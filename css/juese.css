@@ -1,0 +1,134 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url(../img/juesebeijing.jpg);
+}
+.l{
+	width: 120rem;
+	height: 6.875rem;
+	background-color: rgba(0,0,0,0.7);
+}
+.l img{
+	float: left;
+}
+.daohang{
+	float: left;
+	font-size: 1.5625rem;
+	font-family: "微软雅黑";
+	
+}
+.daohang a{
+	display: block;
+	text-decoration: none;
+	color: rgba(255,255,255,0.8);
+	padding: 2.5rem 2.5rem 2.1875rem 2.5rem;
+}
+.daohang a:hover{
+	background-color: rgba(0,0,0,0.2);
+	color: #ffffff;
+}
+.denglu{
+	float: right;
+	font-size: 25px;
+	font-family: "微软雅黑";
+}
+.denglu a{
+	display: block;
+	text-decoration: none;
+	color: rgba(255,255,255,0.8);
+	padding: 2.5rem 2.5rem 2.1875rem 2.5rem;
+}
+.denglu a:hover{
+	background-color: rgba(0,0,0,0.2);
+	color: #ffffff;
+}
+.mengde{
+	width: 120rem;
+	height: 50rem;
+	margin-top: 1.25rem;
+}
+.mdjs{
+	margin: auto;
+	width: 75rem;
+	height: 46.875rem;
+}
+.md1{
+	width: 75rem;
+	height: 43.75rem;
+	margin: auto;
+	border: none;
+}
+.mdt{
+	height: 7.5rem;
+	width: 32.8125rem;
+	margin: auto;
+}
+.mdt img{
+	float: left;
+}
+.tx{
+	margin-top: 0.4375rem;
+	margin-left: 1.875rem;
+	float: left;
+	background-color: rgba(0,0,0,0.3);
+	border-radius: 0.625rem;
+}
+.tx:hover{
+	background-color: rgba(0,0,0,0.7);
+}
+.liyue{
+	width: 120rem;
+	height: 59.375rem;
+	margin-top: 1.25rem;
+	padding-top: 6.25rem;
+	background-image: url(../img/liyuejuese.jpg);
+}
+.daoqi{
+	width: 120rem;
+	height: 59.375rem;
+	margin-top: 1.25rem;
+	padding-top: 6.25rem;
+	background-image: url(../img/daoqijuese.jpg);
+}
+.di{
+	width: 120rem;
+	height: 12.5rem;
+	background-color: #000000;
+}
+.di1{
+	text-align: center;
+}
+.guodu{
+	width: 120rem;
+	height: 1.875rem;
+	background-color: #292929;
+	border-bottom: 0.125rem solid rgba(200,200,200,0.3);
+}
+.fanhui{
+	text-align: center;
+	position:fixed;
+	left:92%;
+	top:80%;
+	border-radius: 15px;
+	background-color: #6495ED;
+	width: 3rem;
+	height: 7rem;
+	font-size: 1.4rem;
+	padding-left: 1rem;
+	padding-top: 0.8125rem;
+}
+.fanhui a{
+	display: block;
+	text-decoration: none;
+	color: #ffffff;
+}
+.fanhui a:hover{
+	cursor: pointer;
+}
+.fanhui a:visited{
+	display: block;
+	text-decoration: none;
+	color: #ffffff;
+}
